@@ -1,0 +1,1 @@
+For the detailed information, please check the [Dense 3D Geodetic Velocities and Strain-rate Field for Hispaniola and Implications for Seismic Hazard](https://essopenarchive.org/doi/full/10.22541/essoar.174643341.10197058).
